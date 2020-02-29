@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="docker-compost.yml" type="PLAIN_TEXT" />
+      <mapping pattern="mysql慢查询分析.md" type="PLAIN_TEXT" />
+      <mapping pattern="基于mockito-junit单元测试.md" type="PLAIN_TEXT" />
+      <mapping pattern="docker-compost" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
