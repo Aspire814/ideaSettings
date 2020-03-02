@@ -2,6 +2,9 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
   </action>
@@ -11,18 +14,18 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
-  </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="alt equals" />
-  </action>
-  <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
