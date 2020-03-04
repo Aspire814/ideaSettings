@@ -98,6 +98,10 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="ResizeToolWindowLeft" />
   <action id="RunDashboard.UngroupConfigurations">
     <keyboard-shortcut first-keystroke="delete" />
