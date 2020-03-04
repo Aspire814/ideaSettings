@@ -3,16 +3,28 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/nbdoc/maven-mybatis-lombok-plugin.git" />
+          <option name="url" value="https://github.com/Aspire814/fw-cloud-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Wasabi1234/Java-Concurrency-Progamming-Tutorial.git" />
+          <option name="url" value="https://github.com/zhoutaoo/SpringCloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
           <option name="userName" value="Aspire814" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Aspire814/AdapativeSpider.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Snailclimb/spring-security-jwt-guide" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Aspire814/mall.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/macrozheng/mall-admin-web.git" />
@@ -23,36 +35,22 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/looly/hutool.git" />
+          <option name="url" value="https://github.com/Aimee1608/wechatGame-all.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Aspire814/Algorithms.git" />
+          <option name="url" value="git@172.16.167.252:/java.caohua.com.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Aspire814/MyUtils.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/halo-dev/halo.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Aspire814/MyPrivateFile.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Aspire814/front-learning.git" />
+          <option name="url" value="https://github.com/ccj/vue-webpack-todo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\github" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/github" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_TAG_NAMES" value="true" />
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -61,8 +59,5 @@
         <option value="3" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
   </component>
 </application>

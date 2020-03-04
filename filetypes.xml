@@ -1,10 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="docker-compost.yml" type="PLAIN_TEXT" />
-      <mapping pattern="mysql慢查询分析.md" type="PLAIN_TEXT" />
-      <mapping pattern="基于mockito-junit单元测试.md" type="PLAIN_TEXT" />
-      <mapping pattern="docker-compost" type="YAML" />
+      <mapping pattern="Test" type="PLAIN_TEXT" />
+      <mapping pattern="本地部署" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
