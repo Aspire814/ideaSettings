@@ -40,12 +40,16 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="DecreaseColumnWidth" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
   </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
@@ -71,8 +75,12 @@
     <keyboard-shortcut first-keystroke="meta alt v" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="JumpToLastChange" />
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
   </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="meta minus" />
@@ -80,9 +88,21 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ResizeToolWindowLeft" />
   <action id="RunDashboard.UngroupConfigurations">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
