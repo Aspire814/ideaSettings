@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping pattern="本地部署" type="PLAIN_TEXT" />
+      <mapping pattern="BOFDemo1.java" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
