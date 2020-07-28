@@ -5,18 +5,17 @@
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
         <package name="static all other" withSubpackages="true" static="false" />
-        <emptyLine />
         <package name="java" withSubpackages="true" static="false" />
-        <emptyLine />
         <package name="javax" withSubpackages="true" static="false" />
-        <emptyLine />
         <package name="org" withSubpackages="true" static="false" />
-        <emptyLine />
         <package name="com" withSubpackages="true" static="false" />
-        <emptyLine />
         <package name="" withSubpackages="true" static="true" />
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="BLANK_LINES_AFTER_PACKAGE" value="0" />
+    <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
+  </codeStyleSettings>
 </code_scheme>
