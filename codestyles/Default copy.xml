@@ -14,8 +14,4 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
-  <codeStyleSettings language="JAVA">
-    <option name="BLANK_LINES_AFTER_PACKAGE" value="0" />
-    <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
-  </codeStyleSettings>
 </code_scheme>
